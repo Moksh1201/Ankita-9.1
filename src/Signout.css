@@ -1,0 +1,22 @@
+/* signout.css */
+
+/* Style for the sign-out button */
+.Signout-Button {
+    background-color: #ff0000; /* Red background color */
+    color: #ffffff; /* White text color */
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  /* Style for the sign-out button on hover */
+  .Signout-Button:hover {
+    background-color: #cc0000; /* Darker red on hover */
+  }
+  

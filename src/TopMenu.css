@@ -1,0 +1,35 @@
+.Menu-Item {
+    color: #ce0505; /* Set text color */
+    font-weight: bold; /* Apply bold font weight */
+    font-size: 50px; /* Adjust font size */
+    padding: 20px; /* Add padding */
+  }
+  
+
+  .Input {
+    width: 100%; /* Adjust the width of the search input */
+    margin: auto;
+    padding: 70px; /* Add padding to the input field */
+    
+  }
+  
+  
+  .Button {
+    background-color: #2185d0; /* Set the background color */
+    color: white; /* Set the text color to white */
+    font-weight: bold; /* Apply bold font weight */
+    padding: 10px 20px; /* Add padding to the button */
+    border: none; /* Remove the button border */
+    border-radius: 5px; /* Add rounded corners */
+    cursor: pointer; /* Change cursor on hover */
+  }
+  .Link {
+    color: #2185d0; /* Semantic UI primary blue color */
+    text-decoration: none; /* Remove underline from the link */
+  }
+  
+  
+  .Link:hover {
+    text-decoration: underline; /* Underline the link on hover */
+  }
+  
