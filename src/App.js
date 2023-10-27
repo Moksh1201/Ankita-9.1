@@ -9,10 +9,7 @@ import { UserAuthContextProvider } from "./UserAuthContext";
 import TopMenu from "./TopMenu";
 
 function App() {
-  const handleSignOut = () => {
-    // Implement your sign-out logic here, e.g., clear user authentication state.
-    // You may need to use a function from your UserAuthContext or authentication library.
-  };
+
 
   return (
     <Container style={{ width: "400px" }}>
